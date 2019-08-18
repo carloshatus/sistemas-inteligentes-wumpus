@@ -1,2 +1,2 @@
-# Implementação do ambiente Wumpus
+# Implementação baseada no ambiente Wumpus
 Trabalho apresentado a disciplina de Sistemas Inteligentes em 28/08/2016.
